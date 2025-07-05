@@ -2,7 +2,7 @@
 
 # 📦 Controle de Estoque e Emissão de Notas Fiscais
 
-Este projeto tem como objetivo oferecer uma solução simples e eficiente para controle de estoque de produtos e geração de notas fiscais eletrônicas. Ele foi desenvolvido com foco em **boas práticas de desenvolvimento**, como **DDD (Domain-Driven Design)**, **TDD (Test-Driven Development)**, **Clean Architecture**, e seguindo o padrão **MVC**.
+Este projeto tem como objetivo oferecer uma solução simples e eficiente para controle de estoque de produtos e geração de notas fiscais eletrônicas. Ele foi desenvolvido com foco em **boas práticas de desenvolvimento**, como **DDD (Domain-Driven Design)**, **TDD (Test-Driven Development)** e **Clean Architecture**.
 
 ## 🚀 Tecnologias Utilizadas
 

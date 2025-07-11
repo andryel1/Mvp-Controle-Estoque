@@ -1,18 +1,6 @@
-# Ignora arquivos padrões do .NET   
+# Ignorar pastas de build
 bin/
 obj/
-out/
 
-# Ignore arquivos de build
-*.user
-*.suo
-*.cache
-*.log
-*.tlog
-*.pdb
-
-# Teste de cobertura
-TestResults/
-coverage/
-*.coverage
-*.coveragexml
+# Arquivos de configuração de IDEs
+.vscode/
